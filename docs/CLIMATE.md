@@ -973,3 +973,8 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code                               | Supported Models | Controller |
 | ---------------------------------- | -----------------| ---------- |
 | [3380](../codes/climate/3380.json) | DualSplit | Broadlink  |
+
+### Galletti
+| Code                               | Supported Models | Controller |
+| ---------------------------------- | -----------------| ---------- |
+| [9021](../codes/climate/9021.json) | WI12H<br/>AYWI12H | Broadlink  |
